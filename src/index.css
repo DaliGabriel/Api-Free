@@ -1,0 +1,12 @@
+.no-link{
+    color: inherit;
+    text-decoration: inherit;
+}
+
+.link{
+    margin: 0px;
+    font: inherit;
+    color: rgb(25, 118, 210);
+    text-decoration: underline rgba(25, 118, 210, 0.4);
+}
+
