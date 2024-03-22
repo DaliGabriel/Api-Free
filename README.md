@@ -13,7 +13,7 @@
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">Typescript</a>,
 <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>,
 <a href="https://reactrouter.com/en/main" target="_blank" rel="noopener noreferrer">React Router</a>,
-<a href="https://mui.com/" target="_blank" rel="noopener noreferrer">Material Design</a>y
+<a href="https://mui.com/" target="_blank" rel="noopener noreferrer">Material Design</a> and
 <a href="https://tanstack.com/query/v3/" target="_blank" rel="noopener noreferrer">React Query</a>.
 
 ## **Why contribute?**
