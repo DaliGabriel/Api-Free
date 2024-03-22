@@ -2,6 +2,8 @@
 
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/DaliGabriel/Api-Free/blob/main/README.es.md)
 
+# Client-side API aggregator with interactive sidebar
+
 ## Content
 
 ### **1. Intro:**
