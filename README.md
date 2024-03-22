@@ -38,7 +38,7 @@
 
 4. **Share your ideas.** Ask for adding new API's, components or improve the project.
 
-5. **¡Start to pull!**Send your pull requests and make the project.
+5. **¡Start to pull!** Send your pull requests and make the project.
 
 
 ## **Requirements:**
