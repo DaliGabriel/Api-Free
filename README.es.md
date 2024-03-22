@@ -94,3 +94,7 @@ Ir a
 * `README.md`: Archivo principal de la documentación del proyecto.
 * `package.json`: Manifiesto del proyecto con dependencias y scripts.
 * `app.js`: Punto de entrada principal de la aplicación.
+
+  # Images for the project
+  ![Image 1 ](https://github.com/DaliGabriel/Api-Free/blob/main/Capture.PNG)
+  ![Image 2 ](https://github.com/DaliGabriel/Api-Free/blob/main/Capture1.PNG)
