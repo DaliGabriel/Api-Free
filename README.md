@@ -2,13 +2,13 @@
 
 [![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/DaliGabriel/Api-Free/blob/main/README.es.md)
 
-## Tabla de contenido
+## Content
 
-### **1. Introducción:**
+### **1. Intro:**
 
-# **¡Únete a la comunidad y colabora en la creación de la mayor colección de APIs del lado del cliente!**
+# **¡Join us and collaborate on the biggest API client side!**
 
-### **¿Buscas una forma sencilla y eficiente de consumir APIs del lado del cliente?** Este proyecto te ofrece la solución perfecta utilizando las tecnologías más populares:
+### Tech stack:
 
 <a href="https://www.typescriptlang.org/" target="_blank" rel="noopener noreferrer">Typescript</a>,
 <a href="https://react.dev/" target="_blank" rel="noopener noreferrer">React</a>,
@@ -16,41 +16,39 @@
 <a href="https://mui.com/" target="_blank" rel="noopener noreferrer">Material Design</a>y
 <a href="https://tanstack.com/query/v3/" target="_blank" rel="noopener noreferrer">React Query</a>.
 
-## **¿Por qué unirte a este proyecto?**
+## **Why contribute?**
 
-**Aprende y domina las tecnologías:** Perfecciona tus habilidades mientras contribuyes a un proyecto de gran impacto.
+**Learn and master:** Keep growing your skills.
 <br>
-**Crea un impacto duradero:** Contribuye a la construcción de la mayor colección de APIs del lado del cliente.
+**Important resources for developers:** real consulting and API consumption.
 <br>
-**Consigue experiencia profesional:** Colaborar en un proyecto open source te permitirá desarrollar habilidades valiosas y destacar en el mercado laboral.
+**Gain open-source development:**  by adding it to your CV.
 
-## **¿Qué encontrarás en este proyecto?**
+## **What do you find?**
 
-**APIs gratuitas para tus proyectos:** Accede a una amplia colección de APIs gratuitas que podrás implementar en tus aplicaciones web.
+**Free API  implementations:** Big API  collection.
 <br>
-**Componentes reutilizables:** Descubre y utiliza componentes reutilizables de alta calidad para optimizar tus proyectos.
+**Fully reusable components:**.
 
-## **¿Cómo puedes unirte?**
+## **How could you contribute?**
 
-1. **Explora el repositorio:** Accede al repositorio del proyecto y familiarízate con su estructura y contenido.
+1. **Delve into the repository.** Get comfortable with the project structure.
 
-2. **Elige un área de contribución:** Decide cómo deseas contribuir al proyecto: desarrollo de APIs, creación de componentes, mejora de la documentación o traducción.
+2. **¡Chose you API!:** Decide how to contribute: API's development, component's creation, growing up the documentation, or translating.
 
-4. **Comparte tus ideas:** Propón nuevas APIs, componentes o mejoras para el proyecto.
+4. **Share your ideas.** Ask for adding new API's, components or improve the project.
 
-5. **¡Comienza a contribuir!** Envía tus pull requests y aporta tu talento para hacer crecer este proyecto.
-
-**¡Empieza a consumir APIs del lado del cliente de forma fácil y eficiente!** Únete a la comunidad y colabora en la construcción de un recurso invaluable para todos los desarrolladores.
+5. **¡Start to pull!**Send your pull requests and make the project.
 
 
-## **Requisitos:**
+## **Requirements:**
 
-> - Sistema operativo: Windows, macOS o Linux
-> - Node.js: v16 o superior
-> - npm: v8 o superior
-> - Navegador web
+> - OS: Windows, macOS o Linux
+> - Node.js
+> - npm
+> - Web browser
 
-## **Instalación:**
+## **Install and run:**
 
 ```
 git clone https://github.com/DaliGabriel/Api-Free.git 
@@ -63,35 +61,35 @@ npm install
 ```
 npm run dev
 ```
-Ir a 
+Go to
 <a href="http://localhost:5173" target="_blank" rel="noopener noreferrer">Localhost</a>
 
-## Estructura del proyecto
+## Folder structure
 
-### Directorios principales
+### Principal directories
 
-* `src`: Contiene el código fuente del proyecto.
-    * `components`: Componentes reutilizables del proyecto.
-        * `Api`: Componentes para mostrar los recursos obtenidos mediante apis.
-        * `Cards`: Componentes cartas para mostrar la informacion de las apis.
-        * `Error`: Componentes para mostrar los errores obtenidos mediante apis.
-        * `MainPage`: Componentes para mostrar la pagina principal.
-        * `SideBar`: Componentes para mostrar las apis disponibles.
-    * `hooks`: La carpeta hooks alberga los hooks personalizados de React Query que se utilizan en el proyecto. Estos hooks encapsulan lógica reutilizable específica del proyecto, simplificando el manejo de datos y la comunicación con APIs externas.
-    * `lib`: contiene funciones reutilizables que facilitan el desarrollo y mantienen la coherencia en el código del proyecto.
+* `src`: Contains the source code of the project.
+    * `components`: Reusable project components.
+        * `Api`: Components to display resources obtained through apis.
+        * `Cards`: Letter components to display API information.
+        * `Error`: Components to display errors obtained using apis.
+        * `MainPage`: Components to display the main page.
+        * `SideBar`: Components to display available APIs.
+    * `hooks`: The hooks folder houses the custom React Query hooks used in the project. These hooks encapsulate reusable project-specific logic, simplifying data management and communication with external APIs.
+    * `lib`: It contains reusable functions that facilitate development and maintain consistency in the project code.
         
-    * `routes`: Rutas de la aplicacion.     
-        * `src/routes/router.tsx`: Declaracion de las rutas con sus componentes asociados. 
-    * `App.tsx`: Componente padre que es donde se renderiza el menu de navegacion, el tema de la aplicacion y el contenido central.
-    * `index.css`: Estilos globales de la aplicacion.
-    * `main.tsx`: Inicio de la aplicación react y configuracion de react router.
+    * `routes`: Application routes.    
+        * `src/routes/router.tsx`: Declaration of routes with their associated components.
+    * `App.tsx`: Parent component which is where the navigation menu, application theme and core content are rendered.
+    * `index.css`: Global styles.
+    * `main.tsx`: Starting the react application and configuring react router
 * `public`: Contiene los archivos estáticos para la distribución.
 
-### Archivos importantes
+### Important files
 
-* `README.md`: Archivo principal de la documentación del proyecto.
-* `package.json`: Manifiesto del proyecto con dependencias y scripts.
-* `app.js`: Punto de entrada principal de la aplicación.
+* `README.md`: Main project documentation file.
+* `package.json`: Project manifest with dependencies and scripts.
+* `app.js`: Main entry point of the application.
 
 
 
