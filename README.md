@@ -93,9 +93,9 @@ Go to
 * `package.json`: Project manifest with dependencies and scripts.
 * `app.js`: Main entry point of the application.
 
-  #Images for the project
-  ![Image 1 ]([http://url/to/img.png](https://github.com/DaliGabriel/Api-Free/blob/main/Capture.PNG)https://github.com/DaliGabriel/Api-Free/blob/main/Capture.PNG)
-
+  # Images for the project
+  ![Image 1 ](https://github.com/DaliGabriel/Api-Free/blob/main/Capture.PNG)
+  ![Image 2 ](https://github.com/DaliGabriel/Api-Free/blob/main/Capture1.PNG)
 
 
 
